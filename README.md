@@ -1,7 +1,7 @@
 # 2005 to 2015 Unemployment Dashboard
 
-### Dashboard : ![Unemployment - Power BI](https://github.com/Rajaaram-M/Rajaa-s_Portfolio/assets/158242272/c061a028-2c5c-4013-a2d5-abffe4833a52)
-                ![Krithi Fashions - Excel](https://github.com/Rajaaram-M/Rajaa-s_Portfolio/assets/158242272/0f1140f8-9bdb-4776-b59a-60f5bfb29165)
+### Dashboard : ![Krithi Fashions - Excel](https://github.com/Rajaaram-M/Rajaa-s_Portfolio/assets/158242272/0f1140f8-9bdb-4776-b59a-60f5bfb29165) 
+                
 
 
 ## Insights
