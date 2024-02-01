@@ -10,7 +10,7 @@
 Following inferences can be drawn from the dashboard;
 
 
-    a) Sum of Unemployed = 129880
+    a) Sum of Unemployed = 440463000
     b) Men are more Unemployed than Women
     c) 2010 has more unemployment and 2015 has least unemployement
     d) Men between the age 25 - 34 are most unemployed and Women between the age 16-19 are least unemployed
