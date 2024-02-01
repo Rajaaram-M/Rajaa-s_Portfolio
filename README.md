@@ -1,2 +1,20 @@
-# Rajaa-s_Portfolio
-Analytics Portfolio
+# 2005 to 2015 Unemployment Dashboard
+
+### Dashboard : ![Unemployment - Power BI](https://github.com/Rajaaram-M/Rajaa-s_Portfolio/assets/158242272/c061a028-2c5c-4013-a2d5-abffe4833a52)
+
+
+## Insights
+
+### Tools used: 
+    Power BI
+Following inferences can be drawn from the dashboard;
+
+
+    a) Sum of Unemployed = 129880
+    b) Men are more Unemployed than Women
+    c) 2010 has more unemployment and 2015 has least unemployement
+    d) Men between the age 25 - 34 are most unemployed and Women between the age 16-19 are least unemployed
+    e) In the year 2010 men between the age 25-35 are most unemployed
+    f) In the year 2011 women between the age 25-34 are most unemployed
+    g) Only in the age 65plus category women are more unemployed than men
+  
