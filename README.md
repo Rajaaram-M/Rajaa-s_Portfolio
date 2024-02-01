@@ -6,7 +6,7 @@
 ## Insights
 
 ### Tools used: 
-    Power BI
+    Tableau
 
 Following inferences can be drawn from the dashboard;
 
